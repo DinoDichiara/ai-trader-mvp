@@ -130,7 +130,7 @@ PRs are welcome! Please include:
 
 ## License 📄
 
-MIT © Your Name
+MIT © Dino Dichiara
 
 ---
 
